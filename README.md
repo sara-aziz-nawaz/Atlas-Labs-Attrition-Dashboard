@@ -22,12 +22,15 @@ Power BI Desktop, Power Query, DAX, data modelling.
 
 ## Screenshots
 Add one screenshot per page here, for example:
-- `screenshots/overview.png`
+-
   <img width="1312" height="733" alt="Screenshot 2026-10-04 213236" src="https://github.com/user-attachments/assets/6aa69a60-be24-478d-8251-7f07ed37a371" />
 
-- `screenshots/demographics.png`
-- `screenshots/performance_tracker.png`
-- `screenshots/attrition.png`
+- <img width="1328" height="735" alt="Screenshot 2026-10-04 213300" src="https://github.com/user-attachments/assets/6ba234b4-e089-4e9a-89ed-35023ce641d4" />
+
+- <img width="1327" height="741" alt="Screenshot 2026-10-04 213323" src="https://github.com/user-attachments/assets/4a66b4be-c599-4849-bf4a-be295359c7ef" />
+
+- <img width="1337" height="732" alt="Screenshot 2026-10-04 213343" src="https://github.com/user-attachments/assets/9578e3f8-f080-4b5e-849c-8fc9732cba12" />
+
 
 ## Key findings
 [Add 2-3 findings from your dashboard, e.g. which department has the highest attrition, and the effect of overtime.]
