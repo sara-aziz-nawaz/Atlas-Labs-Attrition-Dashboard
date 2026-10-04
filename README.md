@@ -23,6 +23,8 @@ Power BI Desktop, Power Query, DAX, data modelling.
 ## Screenshots
 Add one screenshot per page here, for example:
 - `screenshots/overview.png`
+  <img width="1312" height="733" alt="Screenshot 2026-10-04 213236" src="https://github.com/user-attachments/assets/6aa69a60-be24-478d-8251-7f07ed37a371" />
+
 - `screenshots/demographics.png`
 - `screenshots/performance_tracker.png`
 - `screenshots/attrition.png`
