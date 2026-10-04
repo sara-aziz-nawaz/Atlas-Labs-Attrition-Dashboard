@@ -33,8 +33,9 @@ Add one screenshot per page here, for example:
 
 
 ## Key findings
-[Add 2-3 findings from your dashboard, e.g. which department has the highest attrition, and the effect of overtime.]
-Add Atlas Labs Dashboard
+- The overall attrition rate is 16.1%, with Sales Representative the highest at 39.8%.
+- Employees who work overtime leave at a higher rate 30.5% vs 10.4%.
+- Attrition is highest among employees with 0-1 year at the company almost 35%.
 
-## Data
-[State the source, e.g. public sample HR dataset, course dataset, or synthetic data. Only upload data you are allowed to share.]
+
+
